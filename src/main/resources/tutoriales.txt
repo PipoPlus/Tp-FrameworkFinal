@@ -1,0 +1,8 @@
+Properties Tutorial:
+    -Lectura de archivos .properties
+        https://www.youtube.com/watch?v=Xe2rIy3lcgM
+
+Reflaction:
+    -Obtencion de clases por medio de String
+        https://www.youtube.com/watch?v=c4Lruobf2hs&t=639s
+
