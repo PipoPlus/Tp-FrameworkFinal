@@ -1,4 +1,4 @@
-package rodriguez.framwork;
+package rodriguez.framework;
 
 import java.io.FileInputStream;
 import java.io.IOException;

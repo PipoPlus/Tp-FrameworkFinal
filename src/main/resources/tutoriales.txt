@@ -6,3 +6,4 @@ Reflaction:
     -Obtencion de clases por medio de String
         https://www.youtube.com/watch?v=c4Lruobf2hs&t=639s
 
+USO DE ADAPTER EN PUNTO 5

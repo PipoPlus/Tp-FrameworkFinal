@@ -1,4 +1,4 @@
-package rodriguez.framwork;
+package rodriguez.framework;
 
 import java.util.List;
 import java.util.Scanner;

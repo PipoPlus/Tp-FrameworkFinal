@@ -1,4 +1,4 @@
-package rodriguez.framwork;
+package rodriguez.framework;
 
 public interface Accion {
     void ejecutar();

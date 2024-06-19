@@ -1,6 +1,6 @@
 package rodriguez.utilizacion;
 
-import rodriguez.framwork.Accion;
+import rodriguez.framework.Accion;
 
 public class AccionDos implements Accion {
     @Override

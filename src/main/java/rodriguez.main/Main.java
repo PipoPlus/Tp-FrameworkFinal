@@ -1,9 +1,8 @@
 package rodriguez.main;
 
 
-import rodriguez.framwork.Configuracion;
-import rodriguez.framwork.Framework;
-import rodriguez.framwork.Start;
+import rodriguez.framework.Configuracion;
+import rodriguez.framework.Start;
 
 
 public class Main {

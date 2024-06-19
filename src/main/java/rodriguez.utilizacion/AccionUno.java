@@ -1,6 +1,6 @@
 package rodriguez.utilizacion;
 
-import rodriguez.framwork.Accion;
+import rodriguez.framework.Accion;
 
 public class AccionUno implements Accion {
     @Override
@@ -54,6 +54,6 @@ public class AccionUno implements Accion {
     }
     @Override
     public String descripcionItemMenu() {
-        return "Esto es para traer los twitts de Maradona...";
+        return "Esto es para traer a Maradona...";
     }
 }
