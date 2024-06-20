@@ -15,6 +15,7 @@ public class Framework {
         this.acciones = acciones;
     }
 
+
     public void mostrarMenu() {
         // Crear el marco de la aplicación
         JFrame frame = new JFrame("Menú de Acciones");
