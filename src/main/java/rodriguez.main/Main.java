@@ -9,7 +9,8 @@ public class Main {
     public static void main(String[]args){
         Configuracion config = new Configuracion();
 
-        Start m = new Start(config.configToActionsList());
+        Start m = new Start(config.configToActionsList("C:\\Users\\elrod\\OneDrive\\Escritorio\\Cosas\\Uni\\OO2\\TRABAJO FINAL FRAMEWORK" +
+                "\\Tp-Framework\\src\\main\\resources\\config.properties"));
         m.init();
     }
 }

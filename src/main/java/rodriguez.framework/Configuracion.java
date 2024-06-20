@@ -8,11 +8,11 @@ import java.util.Properties;
 
 public class Configuracion {
 
-    public List<Accion> configToActionsList(){
+    public List<Accion> configToActionsList(String path){
         List<Accion> acciones = new ArrayList<>();
 
         Properties properties = new Properties();
-        try (FileInputStream input = new FileInputStream("config.properties")){
+        try (FileInputStream input = new FileInputStream(path)){
             properties.load(input);
 
             for (String key : properties.stringPropertyNames()){
